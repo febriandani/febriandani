@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Febri Andani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=febriandani&label=Profile%20views&color=0e75b6&style=flat" alt="febriandani" /> </p>
-<p> <a href=""><img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" /></a> </p>
+<p align="center"> <a href=""><img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=febriandani" alt="febriandani" /></a> </p>
 
