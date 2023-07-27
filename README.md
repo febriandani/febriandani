@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [@Olin](https://olin.co.id/) **as a Backend Developer**
 
-- 📫 How to reach me **febriandani76@gmail.com**
+- 📫 How to reach me **febriandani176@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
