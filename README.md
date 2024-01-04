@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=febriandani" alt="febriandani" /></a> </p>
 
-- 🔭 I’m currently working on [@Olin](https://olin.co.id/) **as a Backend Developer**
+- 🔭 I’m currently working on [@Bank_BRI](https://bri.co.id/) **as a Backend IT Developer & Maintenance**
 
 - 📫 How to reach me **febriandani176@gmail.com**
 
